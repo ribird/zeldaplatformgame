@@ -1,0 +1,54 @@
+1
+PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP
+P @         G                              P
+P PPPPPPPPPPP                      G    G  E
+P                 P     M     PPPPPPPPPPPPPP
+P                                          P
+P      P P P P     M            P          P
+P       G  G      G       P                P
+P     PPPPPPP  PPPP                        P
+P                          PPPP            P
+P    K SSSSSSSSSS                   K      P
+PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP;
+
+2
+PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP
+P       PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP                                                                  P
+P@      PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP                                                                  P
+PPPPPP  PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP                                                                  P
+P       PPPPPPPPPPPPP  PPPPPPPPPPPPPPPPPPP                                                                  P
+P       PPPPPPPPPPP      PPPPPPPPPPPPPPPPP        PPPPPPPPP                                                 P
+P  PPPPPPPPPPPPPP          PPPPPPPPPPPPPPP       PPPPPPPPPP                                                 P
+P                                               PPPPPPPPPPP                                                 P
+P                         G                    PPPPPPPPPPPP                                                 P                                 
+PPPPP M         PPPP  PPPPP    PPPPP          PPPPPPPPPPPPP     P  P  P  P  P                               P
+P     PP                                     PPPPPPPPPPPPPP                                                 P
+P   SSSSS    G M                      K     PPPPPPPPPPPPPPP          S  S         SSS   G   SSS   K   K     E
+PPPPPPPPPPPPPPPPP      PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP;
+
+
+3
+PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP
+P                                          P
+P                                          P
+P                    P  P  P  P  P         P
+P               PP                         P
+P    @    PPP                          G  GE
+P   PPP                        G G G GPPPPPP		
+P                     G G G G GPPPPPPPPPPPPP
+P              G G G GPPPPPPPPPPPPPPPPPPPPPP 
+P             PPPPPPPPPPPPPPPPPPPPPPPPPPPPPP
+PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP;
+
+4
+PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP
+P                                          P
+P   @ PPPP                         G       E
+P PPP                         PPPPPPPPPPPPPP
+P                        G                 P
+P                 PPPPPPPPPPP              P
+P          G                               P
+P     PPPPPPPPPP                           P
+P                                          P
+EG                                         P
+PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP;
